@@ -1,0 +1,108 @@
+body {
+    background-color: #1d1d1d;
+}
+
+nav {
+    display: block;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: rgb(10, 10, 10);
+    color: white;
+    border-radius: 27px;
+    box-shadow: 0 0 15px rgb(10, 10, 10);
+    font-weight: 500;
+    font-family: Inter;
+    height: 45px;
+  }
+  
+  :root {
+      --main-color: var(#32b5ff);
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+      
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+  }
+      
+  nav li {
+    margin-right: 1rem;
+    position: relative;
+    font-family: Inter;
+    font-size: 1.2rem;
+    font-weight: 500;
+    transition: 0.2s;
+    float: right;
+    list-style: none;
+  }
+    
+  li.title {
+    font-size: 30px;
+    float: left;
+    margin-top: 4px;
+    color: white;
+  }
+      
+  nav a {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+    font-family: Inter;
+    font-weight: 600;
+    top: 10px;
+    transition: 0.2s;
+  }
+    
+  nav a:hover {
+    background-color: white;
+    padding-top: 10px;
+    color: black;
+    padding-bottom: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+    
+  nav a.disabled:hover {
+    cursor: default;
+    background-color: gray;
+    color: white;
+  }
+    
+  nav a.disabled {
+    color: gray;
+  }
+    
+  .github-icon {
+    height: 1.6rem;
+    float: right;
+    transition: all 0.3s;
+  }
+    
+  .github-icon:hover {
+    scale: 125%;
+  }
+    
+  .nobg:hover {
+    background-color: transparent;
+    padding: none;
+  }
+    
+  .nobg {
+    background-color: transparent;
+    padding: none;
+  }
+    
+  .logo {
+    height: 300px;
+    margin-right: -30px;
+  }
+    
+  .lesspadding:hover {
+    padding-right: 2px;
+  }
