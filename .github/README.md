@@ -1,5 +1,5 @@
 # Who's Next
-Expose the next predator by voting and betting with our very own currency, DMs. Whoever wins walks away with 100 DMs. Dynmically updates every day.
+Expose the next predator by voting and betting with our very own currency, DMs. Whoever wins walks away with 500 DMs. Dynmically updates every day.
 
 ## Features
 - Shop for new user tags
