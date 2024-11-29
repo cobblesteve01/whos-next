@@ -22,7 +22,7 @@ whenever i fucking feel like it :3
 <hr>
 
 ### SyntaxError
-> inactive developer lol
+> i did not work on this lol
 <hr>
 
 ## DON'T ASK ANY QUESTIONS ABOUT MY MOTIVES
