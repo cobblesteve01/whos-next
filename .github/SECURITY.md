@@ -1,1 +1,1 @@
-no fucking secuurity ok?
+no fucking security ok?
