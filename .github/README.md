@@ -10,7 +10,7 @@ Expose the next predator by voting and betting with our very own currency, DMs. 
 - No malware (totally)
 
 ## Update Schedule
-whenever i fucking feel like it :3 
+whenever i freaking feel like it :3 
 
 ## Developers
 ### cobblesteve01
@@ -18,7 +18,7 @@ whenever i fucking feel like it :3
 
 
 ### SprintingSnail69
-- loves chatgpt-ing his repos and getting john mwenda to follow him off of them >:(
+- sub dev
 
 
 ### GrammarSuccess
