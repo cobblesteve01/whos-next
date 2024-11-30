@@ -21,7 +21,7 @@ nav {
 }
   
 :root {
-   --main-color: var(#32b5ff);
+  --main-color: var(#32b5ff);
 }
   
 @font-face {
@@ -170,4 +170,97 @@ h1.title {
 .vflex {
   display: flex;
   flex-direction: column;
+}
+
+.qb {
+  width: 60%;
+  height: 450px;
+  border-radius: 35px;
+  background-color: black;
+  margin-left: 103%;
+  margin-top: -268px;
+}
+
+.qb-title {
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  margin-left: 10px;
+}
+
+.qb-card {
+  width: 320px;
+  height: 150px;
+  border-radius: 35px;
+  color: white;
+  background-color: #1d1d1d;
+  margin: 5px;
+}
+
+.qb-title {
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+
+.qb-desc {
+  font-size: 15px;
+  color: white;
+  margin-left: 140px;
+}
+
+.qb-pfp {
+  border-radius: 30px;
+  width: 130px;
+  height: 130px;
+  margin: 10px;
+}
+
+.qb-upvote {
+  width: 37px;
+  height: 37px;
+  color: white;
+  border-radius: 12px;
+  background-color: #32b5ff;
+  border: none;
+  font-size: 16px;
+  margin-left: 80px;
+  transition: 0.2s;
+}
+
+.qb-upvote:hover {
+  scale: 1.2;
+  cursor: pointer;
+}
+
+.qb-upvote i {
+  margin-left: 5px;
+  margin-top: 11px;
+}
+
+.qb-downvote {
+  width: 37px;
+  height: 37px;
+  color: white;
+  border-radius: 12px;
+  background-color: rgb(255, 62, 62);
+  border: none;
+  font-size: 16px;
+  margin-left: 10px;
+  transition: 0.2s;
+}
+
+.qb-downvote:hover {
+  scale: 1.2;
+  cursor: pointer;
+}
+
+.qb-downvote i {
+  margin-left: 6px;
+  margin-top: 11px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
 }
