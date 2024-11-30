@@ -14,16 +14,16 @@ whenever i fucking feel like it :3
 
 ## Developers
 ### cobblesteve01
-> main dev
-<hr>
+- main dev
+
 
 ### SprintingSnail69
-> loves chatgpt-ing his repos and getting john mwenda to follow him off of them >:(
-<hr>
+- loves chatgpt-ing his repos and getting john mwenda to follow him off of them >:(
 
-### SyntaxError
-> i did not work on this lol
-<hr>
+
+### GrammarSuccess
+- go to the files zone, click assets, then images, then celebs2, then placeholder.
+
 
 ## DON'T ASK ANY QUESTIONS ABOUT MY MOTIVES
-> cobblesteve01
+cobblesteve01
